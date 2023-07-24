@@ -13,7 +13,7 @@ html{
 
 body{
     align-items: center;
-    background: linear-gradient(340deg, #d11919,#83ff78,#63c9b4);
+    background: linear-gradient(340deg, #393130,#83ff78,#63c9b4);
     display: flex;
     font-family: 'Dosis', sans-serif;
     font-display:swap;
@@ -25,11 +25,11 @@ body{
     backdrop-filter:blur(5.5px) ;
     -webkit-backdrop-filter: blur(5.5px);
     border-radius: 26px;
-    box-shadow: 0 4px 30px rgba(red, green, blue, alpha);
+    box-shadow: 0 4px 30px rgba(rgb(214, 5, 5), rgb(47, 206, 47), rgb(26, 26, 206), alpha);
     color: black;
     backdrop-filter: blur(4px);
     -webkit-backdrop-filter: blur(4px);
-    background: rgba(255, 255, 255, 0.35);
+    background: rgba(236, 231, 231, 0.845);
     flex-basis: 400px;
     height: 540px;
     padding: 20px 35px;
@@ -38,7 +38,7 @@ body{
 .screen{
     backdrop-filter: blur(5.5px);
     -webkit-backdrop-filter: blur(5.5px);
-    background: rgba(36, 77, 200, 0.8) ;
+    background: rgba(37, 72, 177, 0.8) ;
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 20px ;
     box-shadow: 4px 10px rgba(35,35,34,0.1);
